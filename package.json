@@ -1,0 +1,22 @@
+{
+    "name": "daves",
+    "displayName": "daves",
+    "description": "daves theme",
+    "version": "0.0.1",
+    "publisher": "dblooman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Daves Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Daves.json"
+            }
+        ]
+    }
+}
