@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "daves"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# DevOps Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+This is targeted at those working with Golang, Python, Ruby and Terraform. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Screenshots
 
-**Enjoy!**
+![image](static/1.png)
+![image](static/2.png)
+![image](static/3.png)
+![image](static/4.png)
